@@ -19,5 +19,5 @@
 <p>
   <a href="https://github.com/mrds1997/iCAP" target="_blank" style="color: #10b981; font-weight: bold;">
    iCAP
-  </a> – Embedded car project with sensors & Java code
+  </a> – Embedded car project
 </p>
