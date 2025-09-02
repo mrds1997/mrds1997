@@ -21,3 +21,8 @@
    iCAP
   </a> – Intelligent Car Assistant Platform
 </p>
+<p>
+  <a href="https://github.com/mrds1997/Android-POS-Ticketing-System.git" target="_blank" style="color: #10b981; font-weight: bold;">
+   Android POS Ticketing System
+  </a>
+</p>
