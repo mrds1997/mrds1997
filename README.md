@@ -27,7 +27,7 @@
   </a>
 </p>
 <!-- Flutter Projects -->
-<p><b style="font-size: 1.2em; color: #10b981;">Java</b></p>
+<p><b style="font-size: 1.2em; color: #10b981;">Flutter</b></p>
 <p>
   <a href="https://github.com/mrds1997/iCAP" target="_blank" style="color: #10b981; font-weight: bold;">
    Schedule Shield
