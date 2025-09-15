@@ -33,4 +33,10 @@
    Schedule Shield
   </a> – Holiday Reminder & Notification App
 </p>
+<p>
+  <a href="https://github.com/mrds1997/followerra.git" target="_blank" style="color: #10b981; font-weight: bold;">
+   Followerra
+  </a> – Social Media Engagement & Reward Platform
+</p>
+
 
